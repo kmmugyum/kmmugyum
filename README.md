@@ -4,7 +4,7 @@
   <p color='white' data-ke-size="size20" >🗣️ - I'm interested in deep learning and mathematics.</p>
   <p color='white' data-ke-size="size20" >🗣️ - As an undergraduate research student, researching deep learning. 
     <a href="https://sites.google.com/cs-cnu.org/diplab">
-      LAB PAGE
+      Click To Our LAB PAGE 
     </a>
   </p>
   <h1>👀 STATUS</h1>
