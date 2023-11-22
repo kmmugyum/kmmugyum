@@ -4,6 +4,7 @@
   <p color='white' data-ke-size="size30" >🗣️ - I'm interested in deep learning and mathematics.</p>
   <p color='white' data-ke-size="size30" >🗣️ - As an undergraduate research student, researching deep learning.</p>
   <p color='white' data-ke-size="size30" >🗣️ - Study for Computer Vision </p>
+  <p color='white' data-ke-size="size30" >🗣️ - And I Interested Language C++, C, Python, Java, Javascript etc..</p>
   <p>
     <a href="https://sites.google.com/cs-cnu.org/diplab">
       Click To Our LAB
